@@ -1,0 +1,7 @@
+C:\Users\Alumno\Downloads\Poo\NiltonBueno-Actividad 5\punto 4\bin\Debug\punto 4.exe.config
+C:\Users\Alumno\Downloads\Poo\NiltonBueno-Actividad 5\punto 4\bin\Debug\punto 4.exe
+C:\Users\Alumno\Downloads\Poo\NiltonBueno-Actividad 5\punto 4\bin\Debug\punto 4.pdb
+C:\Users\Alumno\Downloads\Poo\NiltonBueno-Actividad 5\punto 4\obj\Debug\punto 4.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\Poo\NiltonBueno-Actividad 5\punto 4\obj\Debug\punto 4.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\Poo\NiltonBueno-Actividad 5\punto 4\obj\Debug\punto 4.exe
+C:\Users\Alumno\Downloads\Poo\NiltonBueno-Actividad 5\punto 4\obj\Debug\punto 4.pdb
