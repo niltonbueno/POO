@@ -1,7 +1,0 @@
-C:\Users\pc\Desktop\chamba\POO activadedes\NiltonBueno-Actividad4\punto 2\bin\Debug\punto 2.exe.config
-C:\Users\pc\Desktop\chamba\POO activadedes\NiltonBueno-Actividad4\punto 2\bin\Debug\punto 2.exe
-C:\Users\pc\Desktop\chamba\POO activadedes\NiltonBueno-Actividad4\punto 2\bin\Debug\punto 2.pdb
-C:\Users\pc\Desktop\chamba\POO activadedes\NiltonBueno-Actividad4\punto 2\obj\Debug\punto 2.csproj.AssemblyReference.cache
-C:\Users\pc\Desktop\chamba\POO activadedes\NiltonBueno-Actividad4\punto 2\obj\Debug\punto 2.csproj.CoreCompileInputs.cache
-C:\Users\pc\Desktop\chamba\POO activadedes\NiltonBueno-Actividad4\punto 2\obj\Debug\punto 2.exe
-C:\Users\pc\Desktop\chamba\POO activadedes\NiltonBueno-Actividad4\punto 2\obj\Debug\punto 2.pdb
