@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\chamba\POO activadedes\Nilton Bueno-Actividad 3\punto 5\obj\Debug\punto 5.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\chamba\POO activadedes\Nilton Bueno-Actividad 3\punto 5\obj\Debug\punto 5.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\chamba\POO activadedes\Nilton Bueno-Actividad 3\punto 5\bin\Debug\punto 5.exe.config
+C:\Users\pc\Desktop\chamba\POO activadedes\Nilton Bueno-Actividad 3\punto 5\bin\Debug\punto 5.exe
+C:\Users\pc\Desktop\chamba\POO activadedes\Nilton Bueno-Actividad 3\punto 5\bin\Debug\punto 5.pdb
+C:\Users\pc\Desktop\chamba\POO activadedes\Nilton Bueno-Actividad 3\punto 5\obj\Debug\punto 5.exe
+C:\Users\pc\Desktop\chamba\POO activadedes\Nilton Bueno-Actividad 3\punto 5\obj\Debug\punto 5.pdb
