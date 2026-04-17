@@ -1,7 +1,0 @@
-C:\Users\alumno\Desktop\POO\Nilton Bueno-Actividad 8\punto 2\bin\Debug\punto_2.exe.config
-C:\Users\alumno\Desktop\POO\Nilton Bueno-Actividad 8\punto 2\bin\Debug\punto_2.exe
-C:\Users\alumno\Desktop\POO\Nilton Bueno-Actividad 8\punto 2\bin\Debug\punto_2.pdb
-C:\Users\alumno\Desktop\POO\Nilton Bueno-Actividad 8\punto 2\obj\Debug\punto 2.csproj.AssemblyReference.cache
-C:\Users\alumno\Desktop\POO\Nilton Bueno-Actividad 8\punto 2\obj\Debug\punto 2.csproj.CoreCompileInputs.cache
-C:\Users\alumno\Desktop\POO\Nilton Bueno-Actividad 8\punto 2\obj\Debug\punto_2.exe
-C:\Users\alumno\Desktop\POO\Nilton Bueno-Actividad 8\punto 2\obj\Debug\punto_2.pdb
