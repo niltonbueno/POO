@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,30 +28,51 @@ namespace punto1
         private string tipo;
         private double tarifa;
 
-        public Vehiculos ()
+        public Vehiculos()
         {
             Console.Write("ingrese la patente: ");
             string van = Console.ReadLine();
             patente = van;
 
-            Console.Write("ingrese la patente: ");
+            Console.Write("ingrese el tipo: ");
             van = Console.ReadLine();
             tipo = van;
 
-            Console.Write("ingrese la patente: ");
+            Console.Write("ingrese la tarifa: ");
             van = Console.ReadLine();
             tarifa = double.Parse(van);
         }
 
+        public string Tipo()
+        {
+            return tipo;
 
-        class CabinaPaja
+        }
+        public string Patente()
+        {
+            return patente;
+
+        }
+        public double Tarifa()
+        {
+            return tarifa;
+
+        }
+    }
+        class CabinaPeaje
         {
             private int ident;
             private Vehiculos[] val1;
-            private CabinaPaja ()
+            private CabinaPeaje ()
             {
                 val1 = new Vehiculos [3];
 
+                Console.Write("ingrese la identificacion: ");
+                string van = Console.ReadLine();
+                ident = int.Parse (van);
+                
+                
+                
                 for (int i = 0; i < 3; i++)
                 {
                     val1[i] = new Vehiculos();
@@ -59,23 +81,54 @@ namespace punto1
             }
             
 
-            public void aparte ()
+            public void imprimir ()
             {
+                for (int i = 0; i < val1.Length; i++)
+                {
+                    
+                   Console.WriteLine("patente: " + val1[i].Patente() + "tipo: " + val1[i].Tipo());
+                }
+            }
+
+            public void calculo ()
+        {
+            double mayor = 0;
+
+            for (int i = 0; i < val1.Length; i++)
+            {
+                mayor = val1[i].Tarifa() + mayor;
+            }
+
+            Console.WriteLine("el total es: " + mayor);
+        }
+        
+        public void com ()
+        {
+            string pat = val1[1].Patente();
+            double mayor = val1[1].Tarifa();
+            for (int i = 0; i < val1.Length; i++)
+            {
+                if (val1[i].Tarifa() > mayor)
+                {
+                    mayor = val1[i].Tarifa();
+                    pat = val1[i].Patente();
+                }
+
 
             }
+            Console.WriteLine("el que pago mas es: " + pat);
 
         }
 
 
-
         static void Main(string[] args)
         {
+            CabinaPeaje j = new CabinaPeaje();
+            j.imprimir ();
+            j.calculo ();
+            j.com ();
 
-
-
-
-
-            
+            Console.ReadKey ();
         }
     }
 }
