@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\chamba\POO\Nilton Bueno-Act 23\punto4\bin\Debug\punto4.exe.config
+C:\Users\pc\Desktop\chamba\POO\Nilton Bueno-Act 23\punto4\bin\Debug\punto4.exe
+C:\Users\pc\Desktop\chamba\POO\Nilton Bueno-Act 23\punto4\bin\Debug\punto4.pdb
+C:\Users\pc\Desktop\chamba\POO\Nilton Bueno-Act 23\punto4\obj\Debug\punto4.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\chamba\POO\Nilton Bueno-Act 23\punto4\obj\Debug\punto4.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\chamba\POO\Nilton Bueno-Act 23\punto4\obj\Debug\punto4.exe
+C:\Users\pc\Desktop\chamba\POO\Nilton Bueno-Act 23\punto4\obj\Debug\punto4.pdb
+C:\Users\pc\Desktop\chamba\POO\Nilton Bueno-Act 23\punto4\obj\Debug\punto4.exe.config
